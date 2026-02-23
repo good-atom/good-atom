@@ -26,7 +26,7 @@
   <img src="./icons/Go.png" height="52" alt="Go" style="margin: 6px;" /> 
   <img src="./icons/PostgreSQL-Dark.svg" height="52" alt="PostgreSQL" style="margin: 6px;" /> 
   <img src="./icons/TypeScript.svg" height="52" alt="TypeScript" style="margin: 6px;" /> 
-  <img src="./icons/Redis-Dark.svg" height="5" alt="Redis" style="margin: 6px;" /> 
+  <img src="./icons/Redis-Dark.svg" height="52" alt="Redis" style="margin: 6px;" /> 
   <img src="./icons/Solidity.svg" height="52" alt="Solidity" style="margin: 6px;" /> 
   <img src="./icons/MySQL-Dark.svg" height="52" alt="MySQL" style="margin: 6px;" /> 
   <img src="./icons/Docker.svg" height="52" alt="Docker" style="margin: 6px;" /> 
