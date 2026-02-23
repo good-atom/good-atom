@@ -2,9 +2,16 @@
 ### yet another InfoSec enthusiast, researcher, ctf enjoyer 🪼
 
 ---
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=I'm+definitely+gonna+be+a+..." alt="Typing SVG" />
+  </a>
+</div>
+
+---
 
 <p align="center">
-  <img src="./icons/gruut.jpg" alt="grut" />
+  <img src="./icons/grut.jpg" alt="grut" />
 </p>
 
 <div align="center">
