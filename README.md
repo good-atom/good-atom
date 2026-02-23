@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="./icons/grut.jpg" alt="grut" />
+  <img src="./icons/gruut.jpg" alt="grut" />
 </p>
 
 <div align="center">
@@ -23,17 +23,17 @@
 ---
 ## lang&services
 <p align="center"> 
-  <img src="./icons/Go.png" height="42" alt="Go" style="margin: 6px;" /> 
-  <img src="./icons/PostgreSQL-Dark.svg" height="42" alt="PostgreSQL" style="margin: 6px;" /> 
-  <img src="./icons/TypeScript.svg" height="42" alt="TypeScript" style="margin: 6px;" /> 
-  <img src="./icons/Redis-Dark.svg" height="42" alt="Redis" style="margin: 6px;" /> 
-  <img src="./icons/Solidity.svg" height="42" alt="Solidity" style="margin: 6px;" /> 
-  <img src="./icons/MySQL-Dark.svg" height="42" alt="MySQL" style="margin: 6px;" /> 
-  <img src="./icons/Docker.svg" height="42" alt="Docker" style="margin: 6px;" /> 
-  <img src="./icons/Jenkins-Dark.svg" height="42" alt="Jenkins" style="margin: 6px;" /> 
-  <img src="./icons/JavaScript.svg" height="42" alt="JavaScript" style="margin: 6px;" />
+  <img src="./icons/Go.png" height="52" alt="Go" style="margin: 6px;" /> 
+  <img src="./icons/PostgreSQL-Dark.svg" height="52" alt="PostgreSQL" style="margin: 6px;" /> 
+  <img src="./icons/TypeScript.svg" height="52" alt="TypeScript" style="margin: 6px;" /> 
+  <img src="./icons/Redis-Dark.svg" height="5" alt="Redis" style="margin: 6px;" /> 
+  <img src="./icons/Solidity.svg" height="52" alt="Solidity" style="margin: 6px;" /> 
+  <img src="./icons/MySQL-Dark.svg" height="52" alt="MySQL" style="margin: 6px;" /> 
+  <img src="./icons/Docker.svg" height="52" alt="Docker" style="margin: 6px;" /> 
+  <img src="./icons/Jenkins-Dark.svg" height="52" alt="Jenkins" style="margin: 6px;" /> 
+  <img src="./icons/JavaScript.svg" height="52" alt="JavaScript" style="margin: 6px;" />
   <img src="./icons/Grafana-Dark.svg" height="42" alt="Grafana" style="margin: 6px;" /> 
-  <img src="./icons/Postman.svg" height="42" alt="Postman" style="margin: 6px;" /> 
+  <img src="./icons/Postman.svg" height="52" alt="Postman" style="margin: 6px;" /> 
 </p>
 ---
 
