@@ -19,22 +19,22 @@
   <img alt="Web3" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=2500&repeat=true&center=true&vCenter=true&width=95&color=FFFFFF&lines=Web3" />
 </div>
 
-
 ---
 ## lang&services
 <p align="center"> 
-  <img src="./icons/Go.png" height="52" alt="Go" style="margin: 6px;" /> 
-  <img src="./icons/PostgreSQL-Dark.svg" height="52" alt="PostgreSQL" style="margin: 6px;" /> 
-  <img src="./icons/TypeScript.svg" height="52" alt="TypeScript" style="margin: 6px;" /> 
-  <img src="./icons/Redis-Dark.svg" height="52" alt="Redis" style="margin: 6px;" /> 
-  <img src="./icons/Solidity.svg" height="52" alt="Solidity" style="margin: 6px;" /> 
-  <img src="./icons/MySQL-Dark.svg" height="52" alt="MySQL" style="margin: 6px;" /> 
-  <img src="./icons/Docker.svg" height="52" alt="Docker" style="margin: 6px;" /> 
-  <img src="./icons/Jenkins-Dark.svg" height="52" alt="Jenkins" style="margin: 6px;" /> 
-  <img src="./icons/JavaScript.svg" height="52" alt="JavaScript" style="margin: 6px;" />
-  <img src="./icons/Grafana-Dark.svg" height="42" alt="Grafana" style="margin: 6px;" /> 
-  <img src="./icons/Postman.svg" height="52" alt="Postman" style="margin: 6px;" /> 
+  <img src="./icons/Go.png" height="62" alt="Go" style="margin: 6px;" /> 
+  <img src="./icons/PostgreSQL-Dark.svg" height="62" alt="PostgreSQL" style="margin: 6px;" /> 
+  <img src="./icons/TypeScript.svg" height="62" alt="TypeScript" style="margin: 6px;" /> 
+  <img src="./icons/Redis-Dark.svg" height="62" alt="Redis" style="margin: 6px;" /> 
+  <img src="./icons/Solidity.svg" height="62" alt="Solidity" style="margin: 6px;" /> 
+  <img src="./icons/MySQL-Dark.svg" height="62" alt="MySQL" style="margin: 6px;" /> 
+  <img src="./icons/Docker.svg" height="62" alt="Docker" style="margin: 6px;" /> 
+  <img src="./icons/Jenkins-Dark.svg" height="62" alt="Jenkins" style="margin: 6px;" /> 
+  <img src="./icons/JavaScript.svg" height="62" alt="JavaScript" style="margin: 6px;" />
+  <img src="./icons/Grafana-Dark.svg" height="62" alt="Grafana" style="margin: 6px;" /> 
+  <img src="./icons/Postman.svg" height="62" alt="Postman" style="margin: 6px;" /> 
 </p>
+
 ---
 
 ## current projects
