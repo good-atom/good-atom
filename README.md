@@ -1,8 +1,10 @@
 
 ### yet another InfoSec enthusiast, researcher, ctf enjoyer 🪼
 
+---
+
 <p align="center">
-  <img src="./icons/grut.jpg" alt="grut" width="100%" />
+  <img src="./icons/grut.jpg" alt="grut" />
 </p>
 
 <div align="center">
