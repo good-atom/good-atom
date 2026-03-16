@@ -1,5 +1,5 @@
 
-### yet another InfoSec enthusiast, developer, researcher, ctf enjoyer 🪼
+### yet another InfoSec enthusiast, developer, researcher 🪼
 
 ---
 <div align="center">
